@@ -12,6 +12,4 @@ Hello there, I'm Deputation, a student working to make the gaming space a fair p
 
 If you would like to support me and my efforts:
 
-btc: bc1q9u05nj57pu92sxzl66h9qggcju4kmpduw2la6h
-
 xmr: 88cPQQ78QedVgUG8pA5bnw734DAC1DFAURHtXFoSkS9SEdEBKCxzZ4FCQ5C6jVPpptj1zNMJaiT583hiMUp8NkkYEj2NNFb
