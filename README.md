@@ -4,10 +4,6 @@ Hello there, I'm Deputation, a student working to make the gaming space a fair p
 
 🔭 I currently lead the anti-cheat development department at Northwood Studios, the studio behind SCP:SL, and I'm working on a lot of exciting future open source projects!
 
-💬 Ask me about anything you like!
-
-📫 How to reach me: contact_mail_2863 (at) proton (dot) me
-
 😄 Pronouns: He/Him
 
 If you would like to support me and my efforts:
