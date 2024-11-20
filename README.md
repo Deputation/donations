@@ -1,8 +1,8 @@
 # donations
 
-Hello there, I'm Deputation, a student working to make the gaming space a fair place for everyone to compete in!
+Hello there, I'm Deputation, a computer science student!
 
-🔭 I currently lead the anti-cheat development department at Northwood Studios, the studio behind SCP:SL, and I'm working on a lot of exciting future open source projects!
+🔭 I am currently working on exciting future open source projects!
 
 😄 Pronouns: He/Him
 
